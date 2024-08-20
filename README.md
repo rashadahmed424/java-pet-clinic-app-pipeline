@@ -22,7 +22,7 @@ with increment version stage to edit pom.xml file with new version number and as
 * Jenkins CICD
 * bash scrpit
 
-## enkinsfile
+## Jenkinsfile
 * "increment version" stage to change old version in pom.xml file to the new version:
   ![Screenshot 2024-08-20 051540](https://github.com/user-attachments/assets/2250ffb5-d73c-48a6-ac44-def6d5a9e123)
 
